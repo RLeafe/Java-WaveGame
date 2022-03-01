@@ -1,6 +1,10 @@
 *IMPORTANT*
 Definitely not the best project as it was the first 'real' on that I had created but it was decent start considering I had no prior experience.
 
+- It's messy.
+- A fair bit of duplicate code.
+- Countless amounts of dead code.
+
 ------------------------------------------------------------------------
 
 Programming project for university. Free style wave based project.
