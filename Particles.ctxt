@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Particles
+comment0.text=\r\n\ The\ particles\ class\ must\ be\ used\ to\ determin\ what\ happens\ when\ a\ particle\ is\ added/removed\ to/from\ the\ handler\r\n\ and\ how\ long\ it\ can\ stay\ in\ the\ game\ for.\r\n\ \r\n\ Particles\ main\ use\ is\ to\ deploy\ after\ Bomb\:\:explode()\ is\ called.\r\n\ \r\n\ @author\ Richard\ Healey\r\n\ @version\ v1.0_Alpha\r\n
+comment1.params=id\ w\ h\ d\ color\ x\ y\ z\ life\ handler
+comment1.target=Particles(ID,\ double,\ double,\ double,\ javafx.scene.paint.Color,\ double,\ double,\ double,\ double,\ Handler)
+comment2.params=
+comment2.target=void\ tick()
+comment2.text=\r\n\ Updates\ Particle\ when\ called.\r\n
+comment3.params=
+comment3.target=javafx.geometry.BoundingBox\ getBounds()
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LevelOne
+comment0.text=\r\n\ LevelOne\ uses\ SceneObject\ to\ create\ the\ level,\ this\ is\ so\ multiple\ levels\ can\ be\ made.\r\n\r\n\ @author\ Richard\ Healey\r\n\ @version\ v1.0_Alpha\r\n
+comment1.params=id\ w\ h\ d\ color\ x\ y\ z\ handler
+comment1.target=LevelOne(ID,\ double,\ double,\ double,\ javafx.scene.paint.Color,\ double,\ double,\ double,\ Handler)
+comment2.params=
+comment2.target=void\ tick()
+comment3.params=
+comment3.target=javafx.geometry.BoundingBox\ getBounds()
+numComments=4

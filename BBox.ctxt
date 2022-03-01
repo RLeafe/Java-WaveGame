@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BBox
+comment0.text=\r\n\ New\ bounding\ box\ for\ collision\ instead\ of\ BoundingBox\r\n\r\n\ @author\ Almas\ Baimagambetov\r\n\ @see\ https\://www.youtube.com/watch?v\=MrTW2K1i1Mk\r\n
+comment1.params=minX\ maxX\ minY\ maxY\ minZ\ maxZ
+comment1.target=BBox(double,\ double,\ double,\ double,\ double,\ double)
+comment2.params=other
+comment2.target=boolean\ isColliding(BBox)
+numComments=3

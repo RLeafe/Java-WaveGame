@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=View
+comment0.text=\r\n\ Connecting\ the\ HUD,\ SubScene\ and\ get\ waits\ for\ input\ controls\ from\ the\ user.\r\n\r\n\ @author\ Richard\ Healey\r\n\ @version\ v1.0_Alpha\r\n
+comment1.params=w\ h
+comment1.target=View(int,\ int)
+comment2.params=window
+comment2.target=void\ start(javafx.stage.Stage)
+comment2.text=\r\n\ Create\ the\ root\ scene\ and\ apply\ the\ menu\ pane\r\n
+numComments=3

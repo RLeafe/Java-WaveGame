@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ PE\ (Playable\ Entity)\r\n\ This\ class\ is\ for\ the\ initialisation\ of\ the\ player.\ \r\n\ Which\ handles\ everything\ about\ the\ player,\ including\ shooting\ and\ ammo.\r\n\ \r\n\ @author\ Richard\ Healey\r\n\ @version\ v1.0_Alpha\r\n
+comment1.params=id\ w\ h\ d\ color\ x\ y\ z\ handler\ camera
+comment1.target=Player(ID,\ double,\ double,\ double,\ javafx.scene.paint.Color,\ double,\ double,\ double,\ Handler,\ javafx.scene.PerspectiveCamera)
+comment1.text=\r\n\ Create\ the\ player\ with\ given\ variables\ from\ Game\r\n\ @param\ player\ initializers\r\n
+comment2.params=
+comment2.target=void\ tick()
+comment2.text=\r\n\ Updates\ the\ player\ tick\ when\ called\ through\ the\ process\ loop.\r\n
+comment3.params=p
+comment3.target=void\ setCam(javafx.geometry.Point3D)
+comment3.text=\r\n\ was\ going\ to\ be\ used\ for\ first\ person\ camera\r\n
+comment4.params=
+comment4.target=void\ collision()
+comment4.text=\r\n\ Updates\ every\ (tick)\ loop\r\n\ @param\ check\ collision\ occurance\r\n\ @return\ Collisions\r\n
+comment5.params=
+comment5.target=void\ isShooting()
+comment5.text=\r\n\ Handles\ bullet\ shooting\ \ \ \r\n\ @param\ reduces\ ammo\ while\ firing\r\n\ @param\ checks\ for\ button\ press\r\n\ @return\ fires\ bullet\ accordingly\r\n
+comment6.params=
+comment6.target=javafx.geometry.BoundingBox\ getBounds()
+numComments=7

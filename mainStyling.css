@@ -1,0 +1,92 @@
+#nextWave {
+    -fx-text-alignment: center;
+    -fx-font-family: "Arial Black";
+    -fx-font-size: 64px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #f7f7f7;
+}
+
+#Time {
+    -fx-text-alignment: center;
+    -fx-font-family: "Arial Black";
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #f7f7f7;
+}
+
+#HEALTH, #AMMO {
+    -fx-text-alignment: center;
+    -fx-font-family: "Arial Black";
+    -fx-font-size: 10px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #292929;
+}
+
+.label {
+    -fx-font-family: "Arial Black";
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #f7f7f7;
+}
+
+#menuTitle{
+    -fx-text-alignment: center;
+    -fx-font-family: "Arial Black";
+    -fx-font-size: 115px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #292929;
+}
+
+#deathTitle{
+    -fx-text-alignment: center;
+    -fx-font-family: "Arial Black";
+    -fx-font-size: 172px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #292929;
+}
+
+#menuQuote{
+    -fx-text-alignment: center;
+    -fx-font-family: "Arial Black";
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #FFE400;
+}
+
+#highScore, #waveScore{
+    -fx-text-alignment: center;
+    -fx-font-family: "Arial Black";
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #292929;
+}
+
+#score_1{
+    -fx-text-alignment: center;
+    -fx-font-family: "Arial Black";
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #10901C;
+}
+
+#score_2{
+    -fx-text-alignment: center;
+    -fx-font-family: "Arial Black";
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #DA8800;
+}
+
+#score_3{
+    -fx-text-alignment: center;
+    -fx-font-family: "Arial Black";
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #C51A1A ;
+}
+
+.button {
+    -fx-text-alignment: center;
+    -fx-font: bold 24pt "Arial Black";
+    -fx-padding: 12 72 12 72;
+}

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SceneObject
+comment0.text=\r\n\ SceneObject\ is\ used\ to\ make\ the\ floors,\ walls,\ pillars,\ etc...\ for\ different\ levels.\r\n\ SceneObject\ was\ created\ to\ be\ used\ in\ multiple\ different\ levels.\r\n\ \r\n\ @author\ Richard\ Healey\r\n\ @version\ v1.0_Alpha\r\n
+comment1.params=id\ w\ h\ d\ color\ x\ y\ z\ handler
+comment1.target=SceneObject(ID,\ double,\ double,\ double,\ javafx.scene.paint.Color,\ double,\ double,\ double,\ Handler)
+comment2.params=
+comment2.target=void\ tick()
+comment3.params=
+comment3.target=javafx.geometry.BoundingBox\ getBounds()
+numComments=4

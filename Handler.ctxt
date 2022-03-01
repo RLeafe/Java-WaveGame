@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Handler
+comment0.text=\r\n\ Handler\ is\ used\ to\ update\ and\ process\ any\ and\ EVERY\ GameObject\ &\ Timer\ passed\ through.\r\n\ \r\n\ @author\ Richard\ Healey\ and\ reference\r\n\ @see\ https\://youtu.be/0T1U0kbu1Sk\r\n\ @version\ v1.0_Alpha\r\n
+comment1.params=
+comment1.target=void\ tick()
+comment1.text=\r\n\ Tick\ is\ used\ to\ manipulate\ everything\ passed\ through\ it.\ This\ is\ used\ in\ every\ single\ class\ connected\r\n\ to\ the\ Game\:\:handler\ with\ a\ tick()\ method.\r\n
+comment2.params=g
+comment2.target=void\ updateGroup(javafx.scene.Group)
+comment2.text=\r\n\ Will\ update\ with\ the\ Game\:\:tick()\ and\ add\ or\ remove\ a\ GameObject\r\n
+comment3.params=time
+comment3.target=void\ addTimer(Timer)
+comment4.params=time
+comment4.target=void\ removeTimer(Timer)
+comment5.params=obj
+comment5.target=void\ addObj(GameObject)
+comment6.params=obj
+comment6.target=void\ removeObj(GameObject)
+numComments=7

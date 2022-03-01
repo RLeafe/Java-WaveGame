@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=SlimeBoss
+comment0.text=\r\n\ NPE\ (Non\ Playable\ Entity).\r\n\ SlimeBoss\ is\ the\ most\ common\ type\ of\ enemy\ that\ spawns\ in\ the\ game.\r\n\ This\ class\ controls\ how\ much\ damage\ the\ enemy\ can\ do,\ what\ color\ it\ flashes\ when\ damage\ is\ taken\ and\ how\ much\r\n\ damage\ it\ can\ do.\r\n
+comment1.params=id\ w\ h\ d\ color\ x\ y\ z\ handler
+comment1.target=SlimeBoss(ID,\ double,\ double,\ double,\ javafx.scene.paint.Color,\ double,\ double,\ double,\ Handler)
+comment1.text=\r\n\ Create\ the\ boss\ with\ given\ variables\ from\ Spawn\r\n\ @param\ boss\ initializers\r\n
+comment2.params=
+comment2.target=void\ tick()
+comment2.text=\r\n\ Updates\ every\ (tick)\ loop\r\n\ @param\ check\ collision\ occurance\r\n\ @return\ Collisions\r\n
+comment3.params=
+comment3.target=void\ collision()
+comment3.text=\r\n\ Handles\ anything\ colliding\ and\ updates\ it\ every\ tick\r\n
+comment4.params=
+comment4.target=javafx.geometry.BoundingBox\ getBounds()
+numComments=5

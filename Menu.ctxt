@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\r\n\ Main\ menu\ of\ the\ game.\ Some\ code\ provided\ by\ CI401\ -\ atm\ project\ but\ heavily\ modified\ \r\n\r\n\ @author\ Richard\ Healey\ and\ Roger\ Evans\r\n\ @version\ v1.0_Alpha\r\n
+comment1.params=w\ h
+comment1.target=Menu(int,\ int)
+comment1.text=\r\n\ Simple\ button\ main\ menu\ to\ start\ or\ quit\ the\ game.\r\n
+comment2.params=
+comment2.target=javafx.scene.layout.Pane\ createMenu()
+comment2.text=\r\n\ Draws\ the\ inital\ MENU\ graphics\ on\ the\ screen\r\n
+comment3.params=
+comment3.target=void\ menuQuotes()
+comment3.text=\r\n\ Read\ one\ of\ four\ quotes\ from\ a\ txt\ document\ to\ display\ on\ the\ menu\r\n
+comment4.params=
+comment4.target=void\ scores()
+comment4.text=\r\n\ Read\ top\ 3\ highscores\ from\ a\ txt\ document\ to\ display\ on\ the\ menu\ and\ order\ the\ numbers\ by\ highest\ first\r\n
+comment5.params=
+comment5.target=void\ menu()
+comment5.text=\r\n\ Check\ gameState,\ update\ menu\ quotes\ or\ destroy\ Timer\ used\r\n\ @return\ updated\ menu\r\n
+comment6.params=event
+comment6.target=void\ buttonClicked(javafx.event.ActionEvent)
+comment6.text=\r\n\ Modified\ buttonClicked\ code\ from\ CI401\ atm\ project\r\n\ @see\ CI401\ -\ ATM\ project\r\n
+comment7.params=
+comment7.target=void\ tick()
+comment7.text=\r\n\ Update\ menu\ every\ loop\ (tick)\r\n
+numComments=8

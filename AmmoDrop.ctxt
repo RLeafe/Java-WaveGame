@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AmmoDrop
+comment0.text=\r\n\ ammoDrop\ gives\ the\ player\ ammo\ when\ player\ collides\ with\ it.\r\n\r\n\ @author\ Richard\ Healey\r\n\ @version\ v1.0_Alpha\r\n
+comment1.params=id\ w\ h\ d\ color\ x\ y\ z\ handler
+comment1.target=AmmoDrop(ID,\ double,\ double,\ double,\ javafx.scene.paint.Color,\ double,\ double,\ double,\ Handler)
+comment1.text=\r\n\ Create\ the\ drop\ with\ given\ variables\ from\ Spawn\ and\ Game\r\n\ @param\ drop\ initializers\r\n
+comment2.params=
+comment2.target=void\ tick()
+comment2.text=\r\n\ Updates\ the\ Drop\ when\ called\ through\ the\ process\ loop.\r\n
+comment3.params=
+comment3.target=void\ collision()
+comment3.text=\r\n\ Updates\ every\ (tick)\ loop\r\n\ @param\ check\ collision\ occurance\r\n\ @return\ Collisions\r\n
+comment4.params=
+comment4.target=javafx.geometry.BoundingBox\ getBounds()
+numComments=5

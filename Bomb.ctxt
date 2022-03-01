@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Bomb
+comment0.text=\r\n\ Exploding\ devices\ that\ explodes\ on\ player\ or\ bullet\ collision.\ Deals\ damage\ to\ everything\ with\ health\ and\ canDie\ \=\ true.\r\n\r\n\ @author\ Richard\ Healey\r\n\ @version\ v1.0_Alpha\r\n
+comment1.params=id\ w\ h\ d\ color\ x\ y\ z\ handler
+comment1.target=Bomb(ID,\ double,\ double,\ double,\ javafx.scene.paint.Color,\ double,\ double,\ double,\ Handler)
+comment2.params=
+comment2.target=void\ tick()
+comment2.text=\r\n\ Updates\ the\ Bomb\ when\ called\ through\ the\ process\ loop.\r\n
+comment3.params=
+comment3.target=void\ reset()
+comment4.params=
+comment4.target=void\ collision()
+comment4.text=\r\n\ Handles\ anything\ colliding\ and\ updates\ it\ every\ tick\r\n
+comment5.params=
+comment5.target=void\ explode()
+comment6.params=
+comment6.target=void\ exploding()
+comment7.params=
+comment7.target=void\ damageArea()
+comment8.params=
+comment8.target=javafx.geometry.BoundingBox\ getBounds()
+numComments=9

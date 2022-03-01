@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Controller
+comment0.text=\r\n\ Controller\ is\ used\ to\ control\ the\ player\ movement\ and\ shooting.\ It\ also\ handles\ the\ 'gravity'\ for\ every\ GameObject.\r\n\ \r\n\ @author\ Richard\ Healey\r\n\ @version\ v1.0_Alpha\r\n
+comment1.params=handler
+comment1.target=Controller(Handler)
+comment2.params=event
+comment2.target=void\ getPressed(javafx.scene.input.KeyEvent)
+comment3.params=event
+comment3.target=void\ getReleased(javafx.scene.input.KeyEvent)
+comment4.params=
+comment4.target=void\ tick()
+comment4.text=\r\n\ Updates\ the\ controller\ when\ called.\r\n
+numComments=5

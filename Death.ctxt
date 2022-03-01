@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Death
+comment0.text=\r\n\ Death\ menu\ when\ the\ player\ dies,\ displays\ their\ score,\ wave\ number\ and\ displays\ a\ quit\ button.\r\n\r\n\ @author\ Richard\ Healey\r\n\ @version\ v1.0_Alpha\r\n
+comment1.params=w\ h
+comment1.target=Death(int,\ int)
+comment1.text=\r\n\ Simple\ button\ main\ menu\ to\ start\ or\ quit\ the\ game.\r\n
+comment2.params=
+comment2.target=javafx.scene.layout.Pane\ createMenu()
+comment2.text=\r\n\ Draws\ the\ inital\ MENU\ graphics\ on\ the\ screen\r\n
+comment3.params=
+comment3.target=void\ scores()
+comment3.text=\r\n\ Read\ top\ 3\ highscores\ from\ a\ txt\ document\ to\ display\ on\ the\ menu\ and\ order\ the\ numbers\ by\ highest\ first\r\n
+numComments=4
