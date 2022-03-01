@@ -1,3 +1,6 @@
+*IMPORTANT*
+Definitely not the best project as it was the first 'real' on that I had created but it was decent start considering I had no prior experience.
+
 ------------------------------------------------------------------------
 
 Programming project for university. Free style wave based project.
@@ -32,4 +35,4 @@ PROJECT TITLE: Wave based game / CI401 Programming Project
 PURPOSE OF PROJECT: Coursework & Learning experience
 VERSION: v1.0_Alpha
 HOW TO START THIS PROJECT: Main - Run JavaFX Application
-AUTHOR: Richard Healey
+AUTHOR: Richard Leafe
